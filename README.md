@@ -1,1 +1,2 @@
-# SeaBattleII-Project
+# Introduction
+This is my project
